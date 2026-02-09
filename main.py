@@ -10,7 +10,7 @@ from keep_alive import keep_alive
 status = "online"  # online / dnd / idle
 
 GUILD_ID = "1318279473912610816"
-CHANNEL_ID = "1432437066029076612"
+CHANNEL_ID = "1466124838170136740"
 SELF_MUTE = False
 SELF_DEAF = False
 
