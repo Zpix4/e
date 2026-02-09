@@ -11,7 +11,7 @@ status = "online"  # online / dnd / idle
 
 GUILD_ID = "1318279473912610816"
 CHANNEL_ID = "1466124838170136740"
-SELF_MUTE = True
+SELF_MUTE = False
 SELF_DEAF = False
 
 usertoken = os.getenv("TOKEN")
